@@ -17,6 +17,7 @@ interface NavigationStrings {
     facebook: string;
     x: string;
     github: string;
+    instagram: string;
   };
   footerCopy: {
     newsletterTitle: string;
@@ -29,6 +30,7 @@ const socialLinks = {
   facebook: "https://www.facebook.com/",
   x: "https://twitter.com/DawnLabsEN",
   github: "https://github.com/dawnmedia",
+  instagram: "https://www.instagram.com/dawnweb_en",
 };
 
 const navigation: Record<Locale, NavigationStrings> = {
