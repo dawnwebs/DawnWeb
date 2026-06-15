@@ -1,25 +1,25 @@
 {
-  "subTitle": "Respuestas claras antes de reservar una llamada.",
+  "subTitle": "Respuestas claras antes de agendar una llamada.",
   "faqs": [
     {
-      "question": "¿Solo crean sitios web?",
-      "answer": "No. Dawn Web crea sitios web empresariales, rediseña sitios confusos o de bajo rendimiento, desarrolla páginas preparadas para SEO y construye aplicaciones web a medida como dashboards, herramientas de reserva, portales y sistemas de flujo de trabajo."
+      "question": "¿Solo desarrollan sitios web?",
+      "answer": "No. Dawn Web crea sitios corporativos, rediseña sitios confusos o con bajo rendimiento, desarrolla páginas optimizadas para SEO y construye aplicaciones web a medida, como dashboards, herramientas de reserva, portales y sistemas de flujo de trabajo."
     },
     {
       "question": "¿Pueden mejorar mi sitio web actual?",
-      "answer": "Sí. Si tu sitio se ve bien pero no explica tu oferta, no genera confianza o no consigue suficientes consultas, podemos mejorar el copy, la estructura, la UX, el rendimiento y la base técnica."
+      "answer": "Sí. Si tu sitio se ve bien pero no explica tu oferta, no genera confianza o no atrae suficientes consultas, podemos optimizar los textos (copy), la estructura, la experiencia de usuario (UX), el rendimiento y la base técnica."
     },
     {
-      "question": "¿Mi sitio quedará preparado para SEO?",
-      "answer": "Sí. Las construcciones preparadas para SEO incluyen fundamentos técnicos que suelen pasarse por alto: metadatos, estructura de páginas, enlaces rastreables, schema, sitemap y desarrollo orientado al rendimiento."
+      "question": "¿Mi sitio estará optimizado para SEO?",
+      "answer": "Sí. Los desarrollos optimizados para SEO incluyen fundamentos técnicos que a menudo se pasan por alto: metadatos, estructura de las páginas, enlaces rastreables, marcado schema, sitemap y desarrollo centrado en el rendimiento."
     },
     {
       "question": "¿Con quién me comunicaré?",
-      "answer": "Te comunicas directamente con el fundador durante la planificación y la entrega, para que tus comentarios no se diluyan entre capas de gestión."
+      "answer": "Te comunicarás directamente con el fundador durante la planificación y la entrega, asegurando que tus comentarios no se pierdan entre múltiples gestores de cuenta."
     },
     {
       "question": "¿Qué sucede después de la consulta gratuita?",
-      "answer": "Revisamos tus objetivos, tu sitio actual o idea, tu calendario y el mejor siguiente paso. Si hay encaje, recibes una propuesta clara antes de iniciar cualquier desarrollo."
+      "answer": "Evaluamos tus objetivos, tu sitio web actual o idea, los plazos y el mejor siguiente paso. Si hay sintonía, recibirás una propuesta clara antes de iniciar cualquier desarrollo."
     }
   ]
 }

@@ -1,53 +1,53 @@
 {
-  "title": "Preços simples e transparentes",
-  "subTitle": "Escolha o plano ideal para tirar sua presença digital do papel. Planos anuais têm 20% de desconto.",
+  "title": "Preços Simples e Transparentes",
+  "subTitle": "Desconto disponível em nosso plano de 12 meses, entre em contato agora!",
   "badge": "Melhor custo-benefício",
   "thirdOption": "Precisa de uma solução empresarial?",
-  "btnText": "Solicitar orçamento personalizado",
+  "btnText": "Solicite um Orçamento Personalizado",
 
   "starterKit": {
     "name": "Plano Presença",
-    "description": "Ideal para sites institucionais, portfólios e empresas começando online.",
+    "description": "Perfeito para: Presença web básica, portfólios ou negócios em estágio inicial.",
     "price": "74",
     "cents": ".99",
     "billingFrequency": "USD / mês",
     "features": [
       "Site responsivo de 1 a 4 páginas",
-      "Hospedagem rápida com SSL",
-      "Manutenção mensal do site, incluindo segurança e backups",
-      "Integração com Google Analytics",
-      "Suporte por chat e email 24h por dia, 5 dias por semana"
+      "Hospedagem rápida + SSL",
+      "Manutenção mensal do site (atualizações de segurança e backups)",
+      "Integração com o Google Analytics",
+      "Suporte por chat e email 24/5"
     ],
-    "purchaseBtnTitle": "Assinar agora",
-    "purchaseBtnTitle2": "Plano anual -20%",
+    "purchaseBtnTitle": "Assinar Agora",
+    "purchaseBtnTitle2": "Plano Anual -20%",
     "purchaseLink": "https://buy.stripe.com/bJe3cxcs2aG10AD18ubsc06?locale=pt-BR",
     "purchaseLink2": "https://buy.stripe.com/14AfZjbnY6pL9795oKbsc09?locale=pt-BR"
   },
 
   "professionalToolbox": {
     "name": "Plano Crescimento",
-    "description": "Perfeito para marcas que querem ampliar sua presença digital com mais recursos.",
+    "description": "Ideal para marcas que querem escalar e fortalecer sua presença digital.",
     "price": "149",
     "cents": ".99",
     "billingFrequency": "USD / mês",
     "features": [
       "Tudo do Plano Presença, mais:",
       "Até 8 páginas personalizadas",
-      "Configuração avançada de SEO técnico e conteúdo",
+      "Configuração avançada de SEO (técnico e conteúdo)",
       "Implementação de loja online ou sistema de assinatura",
       "Até 5 atualizações mensais",
       "Hospedagem prioritária com acompanhamento de performance",
-      "Suporte 24h por dia, 7 dias por semana, com resposta em até 12h"
+      "Suporte 24/7 (resposta em até 12 horas)"
     ],
-    "purchaseBtnTitle": "Assinar agora",
-    "purchaseBtnTitle2": "Plano anual -20%",
+    "purchaseBtnTitle": "Assinar Agora",
+    "purchaseBtnTitle2": "Plano Anual -20%",
     "purchaseLink": "https://buy.stripe.com/bJefZjcs29BX9796sObsc07?locale=pt-BR",
     "purchaseLink2": "https://buy.stripe.com/fZu3cx1No7tPfvx2cybsc0a?locale=pt-BR"
   },
 
   "enterprise": {
-    "name": "Soluções sob medida",
-    "description": "Para empresas com processos específicos, integrações e necessidades mais complexas.",
+    "name": "Soluções Web Sob Medida",
+    "description": "Para empresas com grandes planos: soluções adaptadas a necessidades complexas e objetivos ambiciosos.",
     "price": "499",
     "cents": ".99",
     "billingFrequency": "USD / mês",
@@ -56,11 +56,11 @@
       "Páginas ou componentes ilimitados",
       "Integrações com APIs, portais de usuários e sistemas de reserva",
       "Reuniões semanais de acompanhamento e gerente de conta dedicado",
-      "E-commerce integrado para vender produtos ou serviços online",
-      "Desenvolvimento de funcionalidades personalizadas, como dashboards, login e APIs"
+      "E-commerce integrado: venda seus produtos ou serviços online com uma loja totalmente integrada.",
+      "Desenvolvimento de funcionalidades personalizadas (dashboards, login e APIs)"
     ],
-    "purchaseBtnTitle": "Assinar agora",
-    "purchaseBtnTitle2": "Plano anual -20%",
+    "purchaseBtnTitle": "Assinar Agora",
+    "purchaseBtnTitle2": "Plano Anual -20%",
     "purchaseLink": "https://buy.stripe.com/eVqaEZ4ZAdSd0ADbN8bsc08?locale=pt-BR",
     "purchaseLink2": "https://buy.stripe.com/4gM4gB3Vw7tPbfh3gCbsc0b?locale=pt-BR"
   }

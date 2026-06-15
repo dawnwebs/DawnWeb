@@ -1,25 +1,25 @@
 {
-  "subTitle": "Respostas claras antes de você marcar uma conversa.",
+  "subTitle": "Respostas claras antes de você agendar uma conversa.",
   "faqs": [
     {
-      "question": "Vocês constroem apenas sites?",
-      "answer": "Não. A Dawn Web cria sites profissionais, redesenha sites confusos ou com baixa conversão, constrói páginas prontas para SEO e desenvolve aplicações web sob medida, como dashboards, sistemas de reserva, portais e fluxos de trabalho."
+      "question": "Vocês criam apenas sites?",
+      "answer": "Não. A Dawn Web cria sites corporativos, redesenha sites confusos ou com baixa conversão, constrói páginas otimizadas para SEO e desenvolve aplicações web sob medida, como dashboards, sistemas de reserva, portais e fluxos de trabalho."
     },
     {
       "question": "Vocês podem melhorar meu site atual?",
-      "answer": "Sim. Se o seu site parece bom, mas não explica sua oferta, não gera confiança ou não traz contatos suficientes, podemos melhorar copy, estrutura, UX, performance e base técnica."
+      "answer": "Sim. Se o seu site tem um bom visual, mas não explica sua oferta, não gera confiança ou não traz contatos suficientes, podemos melhorar os textos (copy), a estrutura, a experiência do usuário (UX), a performance e a base técnica."
     },
     {
-      "question": "Meu site será pronto para SEO?",
-      "answer": "Sim. Projetos prontos para SEO incluem o básico técnico que muita gente esquece: metadados, estrutura de páginas, links rastreáveis, schema, sitemap e desenvolvimento com foco em performance."
+      "question": "Meu site será otimizado para SEO?",
+      "answer": "Sim. Projetos otimizados para SEO incluem os fundamentos técnicos que muitos esquecem: metadados, estrutura das páginas, links rastreáveis, marcação schema, sitemap e desenvolvimento focado em performance."
     },
     {
-      "question": "Com quem vou me comunicar?",
-      "answer": "Você fala diretamente com o fundador durante o planejamento e a entrega, então seu feedback não passa por camadas de gerenciamento de conta."
+      "question": "Com quem terei contato direto?",
+      "answer": "Você falará diretamente com o fundador durante o planejamento e a entrega, garantindo que seu feedback não se perca em camadas de atendimento ou gerentes de conta."
     },
     {
       "question": "O que acontece depois da consulta gratuita?",
-      "answer": "Nós analisamos seus objetivos, site atual ou ideia, prazo e o melhor próximo passo. Se fizer sentido, você recebe uma proposta clara antes de qualquer desenvolvimento começar."
+      "answer": "Avaliamos seus objetivos, seu site atual ou ideia, os prazos e os próximos passos ideais. Caso haja alinhamento, você receberá uma proposta clara antes de iniciar qualquer desenvolvimento."
     }
   ]
 }

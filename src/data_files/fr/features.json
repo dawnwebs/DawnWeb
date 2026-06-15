@@ -1,22 +1,22 @@
 [
   {
-    "heading": "Équipes dédiées",
-    "content": "Bénéficiez de nos équipes engagées qui veillent à ce que votre réussite soit personnelle. Comptez sur un accompagnement expert et des résultats exceptionnels tout au long de votre parcours de projet.",
+    "heading": "Développement Web",
+    "content": "Nous créons des sites web réactifs et adaptés aux besoins de votre entreprise.",
     "svg": "groups"
   },
   {
-    "heading": "Simplicité et accessibilité",
-    "content": "Trouvez des solutions faciles à utiliser et abordables avec la gamme d'outils et d'équipements de Dawn Web. Nos produits simplifient l'approvisionnement et permettent de respecter les budgets de projet.",
+    "heading": "Hébergement et Support 24/7",
+    "content": "Assurez-vous que votre site soit toujours accessible et sécurisé grâce à notre hébergement fiable et à notre support expert 24/7.",
     "svg": "verified"
   },
   {
-    "heading": "Solutions sur mesure",
-    "content": "Développez des sites, outils et applications adaptés à vos objectifs, avec une structure claire pour évoluer après le lancement.",
+    "heading": "Solutions Logicielles sur Mesure",
+    "content": "Nous concevons des logiciels et des applications sur mesure, des systèmes de gestion hôtelière aux bornes de commande pour restaurants, et bien plus encore.",
     "svg": "books"
   },
   {
-    "heading": "Conception centrée sur l'utilisateur",
-    "content": "Faites l'expérience de la différence avec la conception axée sur l'utilisateur de Dawn Web, où la fonctionnalité rencontre la praticité pour une expérience de travail améliorée.",
+    "heading": "Optimisation SEO",
+    "content": "Nous mettons en œuvre les meilleures pratiques SEO actuelles pour aider votre site à grimper dans les classements et attirer du trafic organique.",
     "svg": "frame"
   }
 ]

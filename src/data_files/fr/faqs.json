@@ -2,24 +2,24 @@
   "subTitle": "Des réponses claires avant de planifier un appel.",
   "faqs": [
     {
-      "question": "Construisez-vous uniquement des sites web ?",
-      "answer": "Non. Dawn Web crée des sites professionnels, refond des sites confus ou peu performants, construit des pages prêtes pour le SEO et développe des applications web sur mesure comme des tableaux de bord, systèmes de réservation, portails et workflows métier."
+      "question": "Créez-vous uniquement des sites web ?",
+      "answer": "Non. Dawn Web crée des sites professionnels, refond des sites confus ou peu performants, conçoit des pages optimisées pour le SEO et développe des applications web sur mesure telles que des tableaux de bord, des outils de réservation, des portails et des systèmes de flux de travail."
     },
     {
-      "question": "Pouvez-vous améliorer mon site existant ?",
-      "answer": "Oui. Si votre site semble correct mais n'explique pas clairement votre offre, ne crée pas assez de confiance ou ne génère pas assez de demandes, nous pouvons améliorer le message, la structure, l'UX, la performance et les bases techniques."
+      "question": "Pouvez-vous améliorer mon site actuel ?",
+      "answer": "Oui. Si votre site présente bien mais n'explique pas clairement votre offre, n'inspire pas confiance ou ne génère pas suffisamment de demandes, nous pouvons optimiser les textes (copywriting), la structure, l'expérience utilisateur (UX), les performances et la base technique."
     },
     {
-      "question": "Mon site sera-t-il prêt pour le SEO ?",
-      "answer": "Oui. Les builds SEO-ready incluent les bases techniques faciles à oublier : métadonnées, structure des pages, liens explorables, balisage schema, sitemap et développement axé sur la performance."
+      "question": "Mon site sera-t-il optimisé pour le SEO ?",
+      "answer": "Oui. Les projets optimisés pour le SEO intègrent les bases techniques souvent négligées : métadonnées, structure des pages, liens explorables, balisage schema, sitemap et développement axé sur les performances."
     },
     {
       "question": "Avec qui vais-je communiquer ?",
-      "answer": "Vous communiquez directement avec le fondateur pendant la planification et la livraison, donc vos retours ne sont pas filtrés par plusieurs couches de gestion de compte."
+      "answer": "Vous échangerez directement avec le fondateur pendant la planification et la livraison, garantissant ainsi que vos retours ne se perdent pas à travers plusieurs niveaux de gestion de compte."
     },
     {
       "question": "Que se passe-t-il après la consultation gratuite ?",
-      "answer": "Nous examinons vos objectifs, votre site actuel ou votre idée, votre calendrier et la meilleure prochaine étape. S'il y a une bonne adéquation, vous recevez une proposition claire avant le début du projet."
+      "answer": "Nous étudions vos objectifs, votre site actuel ou votre idée, vos délais et la meilleure étape suivante. Si le projet est viable, vous recevrez une proposition claire avant le début du développement."
     }
   ]
 }
